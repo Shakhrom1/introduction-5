@@ -1,0 +1,4 @@
+2dfc610 (HEAD -> main, origin/main, origin/HEAD) Добавил status.txt
+5bcc8c1 Добавил README.md
+6dab539 Create README.md
+4a2c6d1 Create  "Мой первый проект
